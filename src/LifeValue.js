@@ -1,6 +1,6 @@
 const LifeValue = (props) => {
   return (
-    <p>あなたの価値観は, {props.name}です</p>
+    <p>あなたのキーワードは, {props.name}です</p>
   )
 }
 export default LifeValue;

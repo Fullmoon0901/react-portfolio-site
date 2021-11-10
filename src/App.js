@@ -6,9 +6,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <NameText name="たろう" />
+        <NameText name="うおちゃん" />
         <LifeValue name="挑戦" />
-        <NameText name="あさひ" />
+        <NameText name="いわさき" />
         <LifeValue name="慈愛" />
         <img src={logo} className="App-logo" alt="logo" />
         <p>
